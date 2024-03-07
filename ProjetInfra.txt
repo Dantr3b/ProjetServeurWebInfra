@@ -1,0 +1,8 @@
+User Story:
+	backup story
+	besoin
+	fonctionalité
+	cahier des charges
+	analyse fonctionelle	(acces ssh)
+	gant
+	
