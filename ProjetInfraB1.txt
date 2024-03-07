@@ -1,0 +1,26 @@
+User Story:
+	backup story
+	besoin
+	fonctionalité
+	cahier des charges
+	analyse fonctionelle	(acces ssh)
+	gant
+Historique de l'entreprise :
+InnovateBiz Software, fondée par M. Jean Dupont en 2019, s'est établie comme une entreprise novatrice spécialisée dans le développement de solutions logicielles 
+pour les petites entreprises. Guidée par une vision axée sur la technologie, InnovateBiz Software a gagné la confiance de sa clientèle en fournissant des applications 
+innovantes.
+
+Problème/Opportunité :
+Confrontée à une demande croissante, InnovateBiz Software reconnaît l'importance des technologies open source pour stimuler l'efficacité et la 
+flexibilité de ses opérations. Actuellement, les applications développées par InnovateBiz Software sont hébergées sur des serveurs tiers, limitant la personnalisation 
+et l'optimisation nécessaires pour répondre aux besoins spécifiques des clients.
+
+Objectif du projet :
+Le client cherche à établir une infrastructure web basée sur des technologies open source, avec une emphase particulière sur la flexibilité et la personnalisation 
+offertes par ces solutions. L'objectif principal est de migrer vers un environnement de serveur web dédié, en utilisant des technologies open source telles que 
+Apache, MySQL, PHP (LAMP) pour garantir une gestion efficace des données et une évolutivité maximale.
+
+Résultats attendus :
+En adoptant des technologies open source, InnovateBiz Software vise à accroître la personnalisation, à optimiser les performances des applications et à renforcer 
+la sécurité tout en réduisant les coûts associés à l'utilisation de solutions propriétaires. Le projet contribuera à renforcer la réputation d'innovation de 
+InnovateBiz Software et à répondre de manière plus agile aux besoins changeants de ses clients.
