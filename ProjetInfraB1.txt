@@ -24,3 +24,12 @@ Résultats attendus :
 En adoptant des technologies open source, InnovateBiz Software vise à accroître la personnalisation, à optimiser les performances des applications et à renforcer 
 la sécurité tout en réduisant les coûts associés à l'utilisation de solutions propriétaires. Le projet contribuera à renforcer la réputation d'innovation de 
 InnovateBiz Software et à répondre de manière plus agile aux besoins changeants de ses clients.
+
+
+
+VM:
+
+name: Serveur Web
+username: servweb
+mdp : webserv
+
